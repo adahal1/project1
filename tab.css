@@ -1,0 +1,50 @@
+.nav-tab{
+	width: 20%;
+	z-index: -1px;
+	font-size: 30px;
+}
+
+.navigation{
+	text-decoration: none;
+	color: #269900;
+}
+
+
+.back{
+	background-color: #152f51;
+}
+
+
+h1{
+	text-align: center;
+	font-family: vivaldi, cursive;
+	color: #0fbf4c;
+	font-size: 50px;
+}
+
+p{
+	text-decoration: none;
+	color: red;
+	font-size: 22px;
+	font-weight: bolder;
+	font-family: Verdana, sans-serif;
+}
+
+.left{
+	width: 40%;
+	float: left;
+}
+
+.right{
+	float:right;
+	width: 60%;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 0%;
+}
+
+
